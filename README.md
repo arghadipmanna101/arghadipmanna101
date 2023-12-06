@@ -5,7 +5,7 @@
 
 <img align="right" alt = "Problem Solver" width = "400" src ="arghadip_dp.png">
 # 💫 About Me:
- 🌱 I’m pursuing **B.Tech. in Computer Science and Engineering**<br><br>👯 I’m into  **Hacker Rank & Leetcoding**<br><br>📫 How to reach me **arghadipmanna7295@gmail.com**<br><br> 
+🌱 I’m pursuing **B.Tech. in Computer Science and Engineering** <br><br> 👯 I’m into  **Hackathons & Leetcoding**<br><br>📫 How to reach me **arghadipmanna7295@gmail.com **<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arghadip.101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arghadip-manna-b81122259/) 
