@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arghadip Manna</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://git.io/typing-svg)
+
 
 <h3 align="center">I am  CSE undergrad. I love solving problems and have a knack for developing things and learning more about technology. I love Hacker Rank, leetcoding and hackathons.</h3>
 
@@ -24,8 +24,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=arghadipmanna101&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
