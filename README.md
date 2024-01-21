@@ -51,7 +51,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/arghadipmanna101/arghadipmanna101/assets/130065095/20307e98-2925-48d5-a7dd-7ee6a589c563" alt="canva" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a target="_blank" rel="noreferrer"> <img src="https://github.com/arghadipmanna101/arghadipmanna101/assets/130065095/37229b0e-408a-4bec-ac2e-19fa7ec57057" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://filmora.wondershare.net/" target="_blank" rel="noreferrer"> <img src="https://github.com/arghadipmanna101/arghadipmanna101/assets/130065095/37229b0e-408a-4bec-ac2e-19fa7ec57057" alt="photoshop" width="40" height="40"/> </a> 
 </p>
   <br>
 
