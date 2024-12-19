@@ -27,7 +27,7 @@
                 width="28" /> To connect with me </h2></summary>
 <p align="left">
 <a href="https://linkedin.com/in/arghadip-manna-b81122259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arghadip-manna-b81122259" height="30" width="40" /></a>
-<a href="https://instagram.com/arghadip.101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arghadip.101" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arghadip.here/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arghadip.101" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arghadip_111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arghadip_111" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/arghadip101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arghadip101" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arghadip_111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arghadip_111" height="30" width="40" /></a>
